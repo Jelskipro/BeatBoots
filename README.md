@@ -12,4 +12,9 @@ Getting Started
 --------------
 Check the buildguide.pdf on how to build it and what parts you need.
 
-To use the Android app, download the project file and open it in Android Studio. Make sure
+To use the Android app, download the project file and open it in Android Studio. Make sure your Android phone supports Android 4.2 or higher.
+
+To use the Arduino code, you must install Adafruits libaries. You can find the libaries and how to install them here: https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/software-uart-service
+
+
+
