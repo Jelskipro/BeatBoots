@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kick_clap.mp3",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\raw\\kick_clap.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kick_walk.mp3",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\raw\\kick_walk.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kick_bass_walk.mp3",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\raw\\kick_bass_walk.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\raw\\always_16sec.mp3",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\raw\\always_16sec.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kick_bass_hats_run.mp3",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\raw\\kick_bass_hats_run.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kick_bass_hats_clap_run.mp3",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\raw\\kick_bass_hats_clap_run.mp3"
+    }
+]

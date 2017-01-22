@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plays.png",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable\\plays.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background1.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable\\background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pauses.png",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable\\pauses.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_mid.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable\\grey_mid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable\\check.xml"
+    }
+]

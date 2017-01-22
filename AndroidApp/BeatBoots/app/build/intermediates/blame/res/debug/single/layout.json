@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_element.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\layout\\device_element.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_detail.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\layout\\message_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dis_values.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\layout\\dis_values.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\layout\\title_bar.xml"
+    }
+]

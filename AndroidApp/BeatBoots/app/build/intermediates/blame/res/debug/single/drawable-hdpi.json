@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_01.png",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable-hdpi\\icon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nrfuart_hdpi_icon.png",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable-hdpi\\nrfuart_hdpi_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon3.png",
+        "source": "C:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\src\\main\\res\\drawable-hdpi\\icon3.png"
+    }
+]
