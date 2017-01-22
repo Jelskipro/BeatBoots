@@ -19,5 +19,8 @@ To use the Android app, download the project file and open it in Android Studio.
 
 To use the Arduino code, you must install Adafruits libaries. You can find the libaries and how to install them here: https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/software-uart-service
 
+Credits
+--------------
+The app is based on the nRF-UART app from NordicSemiconductor, check it out here:
 
-
+https://github.com/NordicSemiconductor/Android-nRF-UART
