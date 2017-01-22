@@ -1,0 +1,7 @@
+#Sun Jan 22 19:55:15 CET 2017
+base.0=C\:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_201e04d5265039770824f7ba91a3c8285b906198
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ace380d26d6e5016aee7a929dfaad28f9d27c7c8\\classes.dex
+base.1=C\:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ace380d26d6e5016aee7a929dfaad28f9d27c7c8
+file.0=C\:\\Users\\Jelle\\AndroidStudioProjects\\BeatBoots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_201e04d5265039770824f7ba91a3c8285b906198\\classes.dex
