@@ -1,5 +1,5 @@
 # BeatBoots
-![Logo](Photos/Logo_Final1-01.png "BeatBoots Logo")
+![Logo](Photos/Logo_Final1-01.png "BeatBoots Logo.")
 
 BeatBoots is an Arduino project. It consists of a pair of running shoes for joggers that generate a song based on how you run. If you for example speed up, the music matches your speed. Things like the bass and hat are less pronounced when you are walking. 
 
