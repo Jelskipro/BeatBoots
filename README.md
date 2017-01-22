@@ -13,7 +13,7 @@ I made this project for a school assignment. It is a really early prototype, so 
 
 Getting Started
 --------------
-Check the buildguide.pdf on how to build it and what parts you need.
+Check out the Guide.pdf to learn how to build and use this project. It also contains a parts list.
 
 To use the Android app, download the project file and open it in Android Studio. Make sure your Android phone supports Android 4.2 or higher.
 
