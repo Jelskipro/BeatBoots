@@ -22,5 +22,4 @@ To use the Arduino code, you must install Adafruits libaries. You can find the l
 Credits
 --------------
 The app is based on the nRF-UART app from NordicSemiconductor, check it out here:
-
 https://github.com/NordicSemiconductor/Android-nRF-UART
