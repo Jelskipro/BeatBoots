@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_f1bd8ee4ff97e47dd3a6972ddcc5aa09ba0ab1a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jelle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_f103f3f9cd87231bedde53760745c2894b3efc58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_bad6df97ce69fd5d7c6806174048055ab85d004c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7564453a737b333d563f4094fb6406e022ef0d3f">
+        <dex dex="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ace380d26d6e5016aee7a929dfaad28f9d27c7c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="991f467347e0d4c68c79fe263f34578e48651bbd">
+        <dex dex="C:\Users\Jelle\AndroidStudioProjects\BeatBoots\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_201e04d5265039770824f7ba91a3c8285b906198\classes.dex" />
+    </item>
+
+</items>
